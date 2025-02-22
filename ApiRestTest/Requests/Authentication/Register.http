@@ -1,0 +1,12 @@
+
+@host=http://localhost:5147
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+  "name": "Amichai",
+  "nuip": "2324232323",
+  "email": "michai@mantinband.com",
+  "password": "Amik01232!"
+}
+

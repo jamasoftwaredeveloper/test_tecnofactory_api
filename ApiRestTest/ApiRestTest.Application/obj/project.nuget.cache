@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqufjK5r1Zk=",
+  "success": true,
+  "projectFilePath": "D:\\Datos\\Pruebas\\ApiRestTest\\ApiRestTest.Application\\ApiRestTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jamar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\jamar\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512"
+  ],
+  "logs": []
+}

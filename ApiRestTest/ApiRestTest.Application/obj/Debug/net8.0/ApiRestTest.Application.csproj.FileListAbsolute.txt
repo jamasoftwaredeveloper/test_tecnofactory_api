@@ -1,0 +1,15 @@
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\bin\Debug\net8.0\ApiRestTest.Application.deps.json
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\bin\Debug\net8.0\ApiRestTest.Application.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\bin\Debug\net8.0\ApiRestTest.Application.pdb
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\bin\Debug\net8.0\ApiRestTest.Domain.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\bin\Debug\net8.0\ApiRestTest.Domain.pdb
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.csproj.AssemblyReference.cache
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.AssemblyInfoInputs.cache
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.AssemblyInfo.cs
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.csproj.CoreCompileInputs.cache
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestT.D17E3939.Up2Date
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\refint\ApiRestTest.Application.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ApiRestTest.Application.pdb
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Application\obj\Debug\net8.0\ref\ApiRestTest.Application.dll

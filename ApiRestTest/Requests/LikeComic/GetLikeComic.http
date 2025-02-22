@@ -1,0 +1,5 @@
+@host=http://localhost:5147
+@UserId = 89c2d9a-eb3e-U075-95ff-b920b55aa10U
+GET {{host}}/like/getListLikeComic/{{UserId}}
+Content-Type: application/json
+

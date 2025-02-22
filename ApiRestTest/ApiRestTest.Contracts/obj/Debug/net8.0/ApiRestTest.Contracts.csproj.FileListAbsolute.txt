@@ -1,0 +1,11 @@
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\bin\Debug\net8.0\ApiRestTest.Contracts.deps.json
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\bin\Debug\net8.0\ApiRestTest.Contracts.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\bin\Debug\net8.0\ApiRestTest.Contracts.pdb
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ApiRestTest.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ApiRestTest.Contracts.AssemblyInfoInputs.cache
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ApiRestTest.Contracts.AssemblyInfo.cs
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ApiRestTest.Contracts.csproj.CoreCompileInputs.cache
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ApiRestTest.Contracts.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\refint\ApiRestTest.Contracts.dll
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ApiRestTest.Contracts.pdb
+D:\Datos\Pruebas\ApiRestTest\ApiRestTest.Contracts\obj\Debug\net8.0\ref\ApiRestTest.Contracts.dll

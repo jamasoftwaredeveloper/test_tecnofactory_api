@@ -1,0 +1,16 @@
+@host=http://localhost:5147
+POST {{host}}/like/createUpdate
+Content-Type: application/json
+Authorization: Bearer 
+
+{
+  "UserId": "89c2d9a-eb3e-U075-95ff-b920b55aa10U",
+  "CommicId": 234,
+  "Like": true,  
+  "Thumbnail":{
+    "extension": "jpg",
+    "path":"http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+  },
+  "Title":"Startling Stories: The Incorrigible Hulk (2004) #1",
+  "Description":"",
+}
